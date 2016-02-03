@@ -1,0 +1,9 @@
+{
+  "name": "bnchdrff/drupal8-dumb",
+  "description": "A dumb simple entity module with tests",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "require": {
+    "drupal/entity": "8.1.x-dev"
+  }
+}
